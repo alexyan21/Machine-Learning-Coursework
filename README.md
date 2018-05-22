@@ -1,5 +1,5 @@
 # Machine-Learning
-Here are coursework of machine learning class based on Python and edited by Jupyter Notebooks. Topics covered in this course are including:
+Here are coursework of machine learning class based on Python and edited by Jupyter Notebooks. Topics covered in this course include:
 
 ### Data Mining Overview  
 * The KDD Process
